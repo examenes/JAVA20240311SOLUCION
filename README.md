@@ -5,7 +5,7 @@
 
 +	Inicia sesión en tu cuenta de GitHub y haz un *fork* de este repositorio.
 
-+	Clona el *fork* desde Eclipse importando el proyecto Java contenido en él.
++	Clona el *fork* desde Eclipse importando el proyecto Java del repositorio.
 
 +	Renombra el proyecto usando el formato: *ApellidosNombre* (apellidos y nombre completos, sin espacios ni separadores de ningún tipo, con tildes e iniciales en mayúsculas)
 
